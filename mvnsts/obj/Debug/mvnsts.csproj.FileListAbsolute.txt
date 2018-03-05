@@ -1,0 +1,6 @@
+c:\users\sayo\documents\visual studio 2013\Projects\mvnsts\mvnsts\bin\Debug\mvnsts.exe.config
+C:\Users\Sayo\Documents\Visual Studio 2013\Projects\mvnsts\mvnsts\bin\Debug\mvnsts.exe
+C:\Users\Sayo\Documents\Visual Studio 2013\Projects\mvnsts\mvnsts\bin\Debug\mvnsts.pdb
+C:\Users\Sayo\Documents\Visual Studio 2013\Projects\mvnsts\mvnsts\obj\Debug\mvnsts.csprojResolveAssemblyReference.cache
+C:\Users\Sayo\Documents\Visual Studio 2013\Projects\mvnsts\mvnsts\obj\Debug\mvnsts.exe
+C:\Users\Sayo\Documents\Visual Studio 2013\Projects\mvnsts\mvnsts\obj\Debug\mvnsts.pdb

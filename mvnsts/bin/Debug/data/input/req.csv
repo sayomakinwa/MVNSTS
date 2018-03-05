@@ -1,0 +1,133 @@
+Req Name,Score,Cost
+a.1.1 - more accurate scanning,32.1643,354
+a.1.2 - easy to see,32.3188,187
+a.1.3 - easy to reach,32.3689,140
+a.1.4 - card convenient and likely to be carried,34.3522,124
+a.2 - use the same access control for library entrance,24.9482,411
+a.3.1 - combine ID card and session card,168.344,158
+a.3.2 - combine Library card,225.59,276
+a.3.3 - combine Bloomsbury fitness card,153.183,189
+a.3.4 - combine Club and societies card,123.361,76
+a.3.5 - be compatible with NHS,126.028,76
+a.3.6 - the combine card should not have too many features (don't want it to become too valuable to change for locker keys),123.028,9
+b.1.1 - card to include name,8.84515,4
+b.1.2 - card to include photo,34.7685,8
+b.1.3 - card to include UPI,12.7097,4
+b.1.4 - card design to include card type/user status,36.3771,11
+b.1.6 - card to include job title,5.49089,8
+b.1.7 - card to include expiry date,5.97899,4
+b.1.8 - card to include department,4.99541,57
+b.1.9 - card to include student number,7.35439,13
+b.2.1 - Easier reading of barcode by scanner,56.3315,242
+b.3.1 - card not easily copied,17.8716,99
+b.3.2 - card should have features that prevent sharing,14.6302,34
+b.3.3 - card to include pin,16.9697,76
+b.3.4 - card should have multiple security feature,0.0761905,31
+b.4 - card to include ucl branding,4.11515,208
+b.5 - easy identification/card is clear looking,20.0741,13
+b.6.1 - card should lasts for 5 or more years,9.00609,9
+b.7 - card should be attractive,17.5721,49
+c.1.1 - must stop at the end of the last day of service,29.3875,29
+c.1.2 - must work until the last day of service,23.4928,108
+c.2.1 - control access to departments,58.9684,12
+c.2.2 - control access to library,73.1129,21
+c.2.3 - control access to Bloomsbury,47.9613,53
+c.2.4 - to access Kathleen Lonsdale,51.1113,8
+c.2.5 - control access to departmental offices,46.1321,8
+c.2.6 - control access to private offices,46.2351,8
+c.2.7 - control access to high hazard area,46.0494,8
+c.2.8 - control access to computer cluster,46.4373,4
+c.2.9 - control access to rooms,46.0197,8
+c.3.1 - enable photo visual checks,13.3704,11
+c.3.2 - visual checking cardholder's role,5.43018,195
+c.4.1 - movement tracking in buildings other than library,12.2592,49
+c.4.2 - movement tracking/logs in the library,22.7322,4
+c.4.3 - enable alumni tracking,6.38936,8
+c.4.4 - use card to mark attendance,11.8965,12
+c.4.5 - clocking in and out,12.516,24
+c.4.6 - clear policies on movement tracking/logs,13.9715,27
+c.5.1 - easy to install new readers,2.03191,122
+d.1.1 - fast production of cards,37.998,330
+d.1.2 - many issue points,15.4193,85
+d.2.1 - staff do not go to HR for cards,7.9603,60
+d.2.2 - distance arrangements for preparation of cards,11.627,184
+d.2.3 - appointment system to reduce queuing time,11.627,184
+d.3 - ID card status: Ability to check if a user has collected an ID card,9.26294,184
+d.4.1 - ucl shop to handle lost cards,15.4671,38
+d.5.1 - view and modify access rights time of access online without card being present,29.502,78
+d.5.2 - activate and inactivate card,26.8199,77
+d.5.3 - role-based method to grant access rights,25.6251,144
+d.5.4 - close to real time update,19.5319,76
+d.5.5 - reminders of access end dates,11.1244,44
+d.6 - able to create access reports,80.1142,75
+d.7 - procedures for dealing with fraud,14.2391,75
+e.1.1 - no longer require MRM smart cards,13.3641,103
+e.1.2 - cheap x 10p item,13.2781,223
+e.1.3 - card is reusable/recyclable,13.3779,118
+e.2 - save processing time,13.2391,143
+e.3 - reduce paper trials,12.6486,24
+f.1 - compatible with Bloomsbury system (Gladstone MRM),27.8552,35
+f.2.1 - compatible with library barcode,36.1667,188
+f.2.2 - compatible with library management system,36.1667,32
+f.3 - compatible with HR system,28.3096,37
+f.4.1 - map user identity to UPI (INCLUDING group memberships and roles),42.6371,135
+f.5 - compatible with current network infrastructure,21.4013,199
+f.6.1 - UPI,30.2679,177
+f.6.2 - portico,26.9346,37
+f.6.3 - does not interface with HR directly,19.9346,21
+g.1.1 - card must have unique id,16.9697,120
+g.1.2 - data should not be duplicated,3.08466,295
+g.2.1 - export data to student system,2.35714,291
+g.2.2 - export data to library (access card changes leavers barcode),20.434,189
+g.3.1 - import data from staff and student systems,28.8901,366
+g.4.1 - able to view data from any computer,1.71429,99
+g.4.2 - update/delete data,0.215465,35
+g.4.3 - enter data,0.555556,123
+g.4.4 - authorised access with firewalls and time limitations,23.8631,30
+g.4.5 - ensure secure data storage,10.7361,79
+g.5 - clear policies on use of access data,8.83929,27
+h.1 - include digital certificate,44.2846,75
+h.2.1 - use as bank card,15.6482,158
+h.2.2 - combine with photocopy card,16.426,13
+h.2.3 - used for cashless vending,16.0458,99
+h.3 - used for computer logon,9.28457,99
+h.4 - upgradable (software revisions),9.40769,27
+h.5.1 - thumb reader,9.37981,7000
+i.1.1 - 5 years minimum,5.07359,70
+i.1.2 - Support virtual machine environment,3.24471,137
+i.1.3 - card readers,6.17804,13
+i.1.4 - card printers,7.64471,13
+i.2.1 - all software,7.75,27
+i.2.2 - business rules document,7.75,27
+i.2.3 - requirements document,13.1214,27
+i.2.4 - design document,7.75,27
+i.2.5 - documented processes of dependent systems,18.8853,27
+i.2.6 - technical document for upi,1.37888,27
+i.3.1 - requirements management,12.9,39
+i.3.2 - change management,0.280423,59
+i.3.3 - quality management,20.2843,23
+i.3.4 - budget management,8.8,25
+i.3.5 - development,15.0534,152
+i.3.6 - maintenance,22.4626,123
+j.1.1 - failure does not restrict access,3.82209,223
+j.1.2 - safe in case of power failure,6.78452,19
+j.2.1 - technical architecture standards,15.3777,47
+j.2.2 - management system standards,5.29674,27
+j.2.3 - security standards,5.29674,27
+j.2.4 - health and safety legislations,2.34219,52
+j.3.1 - no change to existing technology approach,1.0842,11
+j.3.2 - smart card technology,6.52864,81
+j.3.3 - not constrained by card solution,1.08896,15
+j.3.4 - card printers technology,6.95086,58
+j.4.1 - 5 years,1.2381,26
+j.5.1 - antivirus,12.207,20
+j.5.2 - reliable such that people can open doors,16.8403,373
+j.5.3 - software interface,10.0284,254
+j.5.4 - continue operation,8.24706,262
+j.5.5 - secure network,19.907,16
+j.6.1 - server software run in a virtual machine environme,2.57335,23
+j.6.2 - working without interruption for 100 days,1.62066,316
+j.6.3 - data backup,18.7025,342
+j.6.4 - switch to standby system in the event of a hardware fail,19.1108,46
+j.7.1 - cabling,5.5,66
+j.7.2 - landswitch,5.5,66
